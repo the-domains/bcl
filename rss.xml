@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[bcl]]></title>
+        <description><![CDATA[bcl]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 10 May 2016 04:07:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>BCL is all about offering first class and premium transport services to its customers! Our services include transport with and without chauffeurs depending upon your requirement. Moreover, the aim of our company is to make your travelling smooth and safe than ever before. We deal in professional chauffeur services and we feel proud in offering you the transport facilities that are clean and properly maintained. Also, the cars we have for offering transport facilities to our customers include Lincoln MKT Stretch Limousine 2015, Cadillac XTS Stretch Limousine 2015, Mercedes-Benz Sprinter Limousine Coach – 2015, Cadillac Escalade ESV 2016 – SUV, Mercedes Benz GLS 2017 – SUV, Cadillac XTS 2015 – Sedan. </p>]]></description>
+            <link>undefinedbcl-is-all-about-offering-first-class-and-premium-transport/index.html</link>
+            <guid isPermaLink="false">feac9dbe-90ad-47d2-9a1e-485dfbe87fd9</guid>
+            <pubDate>Tue, 10 May 2016 04:07:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
